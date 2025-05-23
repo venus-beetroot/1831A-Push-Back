@@ -12,8 +12,6 @@
 
 ![Build](https://img.shields.io/github/actions/workflow/status/GravityLib/GravLib/build.yml?style=for-the-badge)
 
----
-
 ## Welcome To the 1831A Push Back Code Archive! 🔥🚀
 ---
 Welcome Adventurer! This repository is the effort of the programmer of the HS V5RC team **1831A**! 
