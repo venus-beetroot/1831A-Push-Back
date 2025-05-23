@@ -1,3 +1,19 @@
+<p align="center">
+    <img src="docs/assets/gravlib-banner.png">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Version-Beta%20V0.1-red?style=for-the-badge&color=blue">
+    <img src="https://img.shields.io/github/stars/GravityLib/GravLib?style=for-the-badge&color=yellow">
+    <img src="https://img.shields.io/github/contributors/GravityLib/GravLib?style=for-the-badge&color=pink">
+    <img src="https://img.shields.io/badge/Flavour-Coke-red?style=for-the-badge&color=red">
+</p>
+<hr>
+
+![Build](https://img.shields.io/github/actions/workflow/status/GravityLib/GravLib/build.yml?style=for-the-badge)
+
+---
+
 ## Welcome To the 1831A Push Back Code Archive! 🔥🚀
 ---
 Welcome Adventurer! This repository is the effort of the programmer of the HS V5RC team **1831A**! 
