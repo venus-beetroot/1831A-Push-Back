@@ -12,20 +12,20 @@
 
 ![Build](https://img.shields.io/github/actions/workflow/status/GravityLib/GravLib/build.yml?style=for-the-badge)
 
----
-
 ## Welcome To the 1831A Push Back Code Archive! 🔥🚀
 ---
 Welcome Adventurer! This repository is the effort of the programmer of the HS V5RC team **1831A**! 
 
 With this project, we are aiming to extend upon the existing LemLib project by @SizzinSeal and its contributors, optimising it for the "Push Back" season, as well as exploring the contents of *Rust* through creating our own library in this language. This repository also serves as an archive for the whole of the V5RC "Push Back" season, allowing members, judges and other teams alike to sift through how our team developed thoughout this season. 
 
-If you decide to use our code, please consider **starring our project** (and lemlib and **gravlib** [our personal project]) to support us!
+If you decide to use our code, please consider **starring our project** (and [LemLib](https://github.com/LemLib/LemLib) and [GravityLib Repository](https://github.com/GravityLib/GravLib/tree/main)) to support us!
+
+
 
 ---
 
 ## License
-This project is licensed under the MIT license. Check [LICENSE](https://github.com/1831-Code-Community/1831-Common-Codebase/blob/main/LICENSE) for more details. (TODO Change)
+This project is licensed under the MIT license. Check [LICENSE](https://github.com/venus-beetroot/1831A-Push-Back/blob/main/LICENSE) for more details. (TODO Change)
 
 ## Table of Contents  
 
