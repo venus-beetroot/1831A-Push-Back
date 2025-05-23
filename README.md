@@ -18,9 +18,9 @@ Welcome Adventurer! This repository is the effort of the programmer of the HS V5
 
 With this project, we are aiming to extend upon the existing LemLib project by @SizzinSeal and its contributors, optimising it for the "Push Back" season, as well as exploring the contents of *Rust* through creating our own library in this language. This repository also serves as an archive for the whole of the V5RC "Push Back" season, allowing members, judges and other teams alike to sift through how our team developed thoughout this season. 
 
-If you decide to use our code, please consider **starring our project** (and lemlib and **gravlib** (our personal project)) to support us!
+If you decide to use our code, please consider **starring our project** (and [LemLib](https://github.com/LemLib/LemLib) and [GravityLib Repository](https://github.com/GravityLib/GravLib/tree/main)) to support us!
 
-[GravityLib Repository](https://github.com/GravityLib/GravLib/tree/main)
+
 
 ---
 
