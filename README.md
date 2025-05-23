@@ -1,31 +1,15 @@
-<p align="center">
-    <img src="docs/assets/gravlib-banner.png">
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Version-Beta%20V0.1-red?style=for-the-badge&color=blue">
-    <img src="https://img.shields.io/github/stars/GravityLib/GravLib?style=for-the-badge&color=yellow">
-    <img src="https://img.shields.io/github/contributors/GravityLib/GravLib?style=for-the-badge&color=pink">
-    <img src="https://img.shields.io/badge/Flavour-Coke-red?style=for-the-badge&color=red">
-</p>
-<hr>
-
-![Build](https://img.shields.io/github/actions/workflow/status/GravityLib/GravLib/build.yml?style=for-the-badge)
-
-## Welcome To the 1831A Push Back Code Archive! 🔥🚀
+## Welcome To the 1831 Common Codebase! 🔥🚀
 ---
-Welcome Adventurer! This repository is the effort of the programmer of the HS V5RC team **1831A**! 
+Welcome Adventurer! This repository is a merged effort between programmers of active V5RC teams **1831E and 1831A** in the "high stakes" season. 
 
-With this project, we are aiming to extend upon the existing LemLib project by @SizzinSeal and its contributors, optimising it for the "Push Back" season, as well as exploring the contents of *Rust* through creating our own library in this language. This repository also serves as an archive for the whole of the V5RC "Push Back" season, allowing members, judges and other teams alike to sift through how our team developed thoughout this season. 
+With this project, we are aiming to extend upon the existing LemLib project by @SizzinSeal and its contributors, optimising it for the "high stakes" season. 
 
-If you decide to use our code, please consider **starring our project** (and [LemLib](https://github.com/LemLib/LemLib) and [GravityLib Repository](https://github.com/GravityLib/GravLib/tree/main)) to support us!
-
-
+If you decide to use our code, please consider **starring our project** (and lemlib) to support us!
 
 ---
 
 ## License
-This project is licensed under the MIT license. Check [LICENSE](https://github.com/venus-beetroot/1831A-Push-Back/blob/main/LICENSE) for more details. (TODO Change)
+This project is licensed under the MIT license. Check [LICENSE](https://github.com/1831-Code-Community/1831-Common-Codebase/blob/main/LICENSE) for more details.
 
 ## Table of Contents  
 
@@ -40,7 +24,9 @@ This project is licensed under the MIT license. Check [LICENSE](https://github.c
 
 ## About Us  
 
-**Team 1831A** is a currently active V5RC **HS** team based in **The King's School, Paramatta, Sydney Australia** competing in the VEX Robotics Competition 2024-2025 "High Stakes". 
+**Team 1831E** is a currently active V5RC **HS** team based in **The King's School, Paramatta, Sydney Australia** competing in the VEX Robotics Competition 2024-2025 "High Stakes". 
+
+**Team 1831A** is a currently active V5RC **MS** team based in the same school.
 
 <!--
 NOTE - Commented out
@@ -70,18 +56,17 @@ Here's an overview of the repository:
 Before running the code, ensure you have the following installed:  
 - PROS API (https://pros.cs.purdue.edu/) *Recommended through VSCode Extension 
 - VEX V5 Brain and Controller  
-- Robot configured with necessary hardware components.
-- Rust API (TODO)
+- Robot configured with necessary hardware components.  
 
 ### Installation  
 
 1. Clone the repository to your local machine:  
    ```bash  
-   git clone https://github.com/venus-beetroot/1831A-Push-Back.git  
+   git clone https://github.com/LycoKodo/1831E-Robotics.git  
    ```  
 2. Open the project in VScode
 
-3. Build and deploy the code to the robot. with "pros mu" (TODO Change)
+3. Build and deploy the code to the robot. with "pros mu"
 
 ---
 
@@ -90,7 +75,7 @@ Before running the code, ensure you have the following installed:
 - **Autonomous Modes**: Optimized routines for various competition scenarios.  
 - **Driver Control**: Streamlined controls for intuitive operation.  
 - **Subsystem Modularity**: Easy-to-modify subsystems for efficient development.  
-- **Error Handling**: Robust mechanisms to detect and handle runtime issues.  (TODO Change)
+- **Error Handling**: Robust mechanisms to detect and handle runtime issues.  
 
 ---
 
@@ -123,6 +108,10 @@ Thanks for reading my clumsy writing, happy coding!
 
 Cheers! 🍻
 
+Alex Cai (LycoKodo) - Programmer of 1831E
+
 Haoran Fang (venus-beetroot) - Programmer of 1831A
 
+Carlos Zhang (blatantac) - Programmer of 1831N
 
+Sky Fan (Skiiboi) - Programmer/Project Manager of 1831D
