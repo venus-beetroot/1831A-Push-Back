@@ -23,7 +23,7 @@ If you decide to use our code, please consider **starring our project** (and lem
 ---
 
 ## License
-This project is licensed under the MIT license. Check [LICENSE](https://github.com/1831-Code-Community/1831-Common-Codebase/blob/main/LICENSE) for more details. (TODO Change)
+This project is licensed under the MIT license. Check [LICENSE](https://github.com/venus-beetroot/1831A-Push-Back/blob/main/LICENSE) for more details. (TODO Change)
 
 ## Table of Contents  
 
